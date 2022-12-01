@@ -2,4 +2,4 @@
 
 Using Javascript we can create a random background changing app
 
-There are 8 colors in total
+There are 8 colors in total all set i form of an array
